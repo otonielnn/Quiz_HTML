@@ -36,11 +36,5 @@ p {
 }
 
 .options {
-    display: flex;
-    flex-direction: column;
     margin: 10px 10px;
-}
-
-.options input {
-    margin: auto 10px;
 }
